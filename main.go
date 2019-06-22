@@ -14,7 +14,7 @@ func main() {
 	logLevels := map[string]bool{"INFO": true, "DEBUG": true, "ERROR": true, "CRITICAL": true}
 	path, logLevel := getProgramArguments()
 
-	if !logLevels[*logLevel] {
+	if !logLevels[strings.ToUpper(*logLevel)] {
 		log.Fatal(*logLevel + " value not recognized. See the -level option usage to learn more about available options")
 	}
 
