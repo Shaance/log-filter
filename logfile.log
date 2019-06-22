@@ -1,0 +1,13 @@
+2019/01/31 11:48:00 CRITICAL Critical info
+2019/01/31 11:48:01 INFO Some random info
+2019/01/31 11:48:02 INFO Some random info
+2019/01/31 11:48:03 ERROR Something went wrong
+2019/01/31 11:48:04 ERROR Something went wrong
+2019/01/31 11:48:05 INFO Some random info
+2019/01/31 11:48:06 DEBUG can't divide by zero
+2019/01/31 11:48:07 INFO Some random info
+2019/01/31 11:48:08 WARNING can't divide by zero
+2019/01/31 11:48:09 INFO Some random info
+2019/01/31 11:48:10 INFO Some random info
+2019/01/31 11:48:11 ERROR Something went wrong
+2019/01/31 11:48:12 INFO Some random info
